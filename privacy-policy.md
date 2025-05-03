@@ -29,7 +29,7 @@ Changes to This Privacy Policy
 I may update this Privacy Policy from time to time. Updates will be posted to this GitHub repository, and the "Last Updated" date at the top of this policy will be revised accordingly.
 
 Contact Information
-If you have any questions about this Privacy Policy, please contact me at [YOUR EMAIL ADDRESS].
+If you have any questions about this Privacy Policy, please contact me at mdhcouture@gmail.com.
 
 Platform-Specific Provisions
 Pinterest
