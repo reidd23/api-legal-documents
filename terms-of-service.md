@@ -44,5 +44,6 @@ Changes to these Terms
 I may update these Terms from time to time. Updates will be posted to this GitHub repository, and the "Last Updated" date at the top of these Terms will be revised accordingly.
 
 Contact Information
-If you have any questions about these Terms, please contact me at [YOUR EMAIL ADDRESS].
+If you have any questions about these Terms, please contact me at mdhcouture@gmail.com
+
 
